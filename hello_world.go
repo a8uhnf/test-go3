@@ -1,11 +1,11 @@
-package test_go2
+package test_go3
 
 import (
 	"fmt"
 )
 
 func HelloWorld()  {
-	fmt.Println("Hello World from test-go2")
+	fmt.Println("Hello World from test-go3")
 }
 
 func HelloWorldTestDep()  {
